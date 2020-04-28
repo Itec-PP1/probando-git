@@ -155,6 +155,9 @@ input, select, textarea {
 		color: #d52349;
 		text-decoration: underline;
 	}
+	h1 a.main-title{
+		color: #3c5a98;
+	}
 
 		a:hover {
 			text-decoration: none;
@@ -2117,7 +2120,7 @@ input, select, textarea {
 				}
 
 				#nav > ul > li.current > a {
-					background: #d52349;
+					background: #3c5a98;
 					color: #fff !important;
 					font-weight: 700;
 				}
